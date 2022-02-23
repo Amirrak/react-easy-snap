@@ -1,10 +1,20 @@
 {
   "name": "react-easy-snap",
-  "version": "1.0.0",
-  "description": "Snap page when user scroll or click on Navbar menu&quot;",
+  "version": "1.0.4",
+  "description": "Snap page when user scroll or click on Navbar menu",
   "author": "Amirrak",
   "license": "MIT",
   "repository": "Amirrak/react-easy-snap",
+  "keywords": [
+    "React",
+    "Reactjs",
+    "Scroll",
+    "Snap",
+    "Page",
+    "SPA",
+    "Javascript",
+    "Front"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -24,7 +34,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": ">=16.0.0"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",

@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#page1 {
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
+
+#page2 {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+
+#page3 {
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
